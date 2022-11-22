@@ -7,13 +7,10 @@ owl.owlCarousel({
    items: 1
   },
   600: {
-   items: 1
-  },
-  960: {
    items: 2
   },
-  1200: {
-   items: 3
+  1000: {
+   items: 4
   }
  }
 });
