@@ -2,6 +2,7 @@ var owl = $('.owl-carousel');
 owl.owlCarousel({
  loop: true,
  smartSpeed: 80,
+ slideTransition: 'linear',
  responsiveBaseElement: 'body',
  responsive: {
   0: {
