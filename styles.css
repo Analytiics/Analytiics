@@ -465,7 +465,7 @@ ul.brand-style img:hover {
 }
 
 /* MEDIA QUERIES */
-@media only screen and (min-device-width : 181px) and (max-device-width : 410px) {
+@media only screen and (min-device-width : 181px) and (max-device-width : 320px) {
   .hero-heading {
     font-size: 2.5rem;
   }
@@ -489,4 +489,31 @@ ul.brand-style img:hover {
   .call-to-action {
     padding: 1.2rem;
   }
+}
+
+@media only screen and (min-device-width : 321px) and (max-device-width : 580px) {
+  .hero-heading {
+    font-size: 3.5rem;
+  }
+
+  .hero-button {
+    padding: 0.9rem 2.1rem;
+  }
+
+  section {
+    padding: 2.2rem 0;
+  }
+
+  .submain-heading {
+    font-size: 3.2rem;
+  }
+
+  .section-tag {
+    font-size: 0.6rem;
+  }
+
+  .call-to-action {
+    padding: 1.2rem;
+  }
+}
 }
