@@ -189,6 +189,10 @@ section {
 }
 
 /* PROJECTS */
+.project-slides{
+  overflow-x: hidden;
+}
+
 .project-box {
   position: relative;
   border-radius: 5px;
