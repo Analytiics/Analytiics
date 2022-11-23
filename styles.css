@@ -485,6 +485,12 @@ ul.brand-style img:hover {
 
 /* MEDIA QUERIES */
 @media only screen and (min-device-width : 181px) and (max-device-width : 320px) {
+  .offcanvas-body li {
+    padding: 1.4rem 0;
+    font-size: 1.4rem;
+    letter-spacing: 0.1rem;
+  }
+  
   .hero-heading {
     font-size: 2.5rem;
   }
@@ -516,6 +522,12 @@ ul.brand-style img:hover {
 }
 
 @media only screen and (min-device-width : 321px) and (max-device-width : 580px) {
+  .offcanvas-body li {
+    padding: 1.4rem 0;
+    font-size: 1.4rem;
+    letter-spacing: 0.1rem;
+  }
+  
   .hero-heading {
     font-size: 3.5rem;
   }
