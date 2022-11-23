@@ -493,6 +493,11 @@ ul.brand-style img:hover {
   .call-to-action {
     padding: 1.2rem;
   }
+
+  .nav-button{
+    display: none;
+  }
+
 }
 
 @media only screen and (min-device-width : 321px) and (max-device-width : 580px) {
@@ -509,15 +514,19 @@ ul.brand-style img:hover {
   }
 
   .submain-heading {
-    font-size: 3rem;
+    font-size: 3.2rem;
   }
 
   .section-tag {
-    font-size: 0.7rem;
+    font-size: 0.6rem;
   }
 
   .call-to-action {
     padding: 1.2rem;
   }
-}
+
+  .nav-button{
+    display: none;
+  }
+
 }
