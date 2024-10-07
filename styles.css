@@ -216,6 +216,10 @@ section {
   line-height: 1.8rem;
 }
 
+.services p:hover {
+  color: #FFFFFF!important;
+}
+
 /* CYCLE */
 .dev-cycle-process {
   -webkit-transform: scale(1.1);
