@@ -291,23 +291,6 @@ section {
     object-fit: cover;
 }
 
-.project-box .plus-icon a {
-    background-color: #00d1e4;
-    width: 70px;
-    height: 70px;
-    position: absolute;
-    top: 20px;
-    right: 20px;
-    -webkit-transform: scale(0);
-    -moz-transform: scale(0);
-    transform: scale(0);
-    -webkit-transition: all .4s ease-out 0s;
-    -moz-transition: all .4s ease-out 0s;
-    transition: all .4s ease-out 0s;
-    overflow: hidden;
-    border-radius: 50%;
-}
-
 
 /* TECHNOLOGY STACK */
 ul.brand-style {
