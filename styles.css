@@ -283,6 +283,13 @@ section {
   border-radius: 30px;
 }
 
+.owl-carousel .owl-item img {
+    display: block;
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
 /* TECHNOLOGY STACK */
 ul.brand-style {
   list-style: none;
