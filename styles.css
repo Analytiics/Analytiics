@@ -241,6 +241,7 @@ section {
   box-shadow: 0 10px 20px rgb(0 0 0 / 20%);
   background-color: #fff;
   width: 100%;
+  text-decoration: none;
 }
 
 .project-box-img {
